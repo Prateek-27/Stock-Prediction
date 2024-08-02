@@ -32,4 +32,4 @@ This repository contains code for predicting stock prices of TCS (Tata Consultan
   - Prints the accuracy of the models and can be extended to include more evaluation metrics and visualization plots.
 
 ## Conclusion
-I compared two machine learning algorithms, namely Stochastic Gradient Descent and Random Forest, and was able to predict the closing stock prices for the TCS dataset using the model that gave a higher accuracy which was the Random Forest Algorithm with an accuracy of 99.95%. Apart from the stock data, I used the news headlines data to find the sentiment and used that sentiment analysis for a better prediction.
+I compared two machine learning algorithms, namely Stochastic Gradient Descent and Random Forest, and was able to predict the closing stock prices for the TCS dataset using the model that gave a higher accuracy which was the Random Forest Algorithm with an accuracy of 97.81%. Apart from the stock data, I used the news headlines data to find the sentiment and used that sentiment analysis for a better prediction.
